@@ -1,0 +1,1 @@
+The "HealthConnect" API serves as a robust Doctor Management system, enabling users to effortlessly establish, oversee, and locate physicians according to diverse parameters. This project aims to assess my proficiency in programming and logical thinking.
